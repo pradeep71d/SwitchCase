@@ -27,6 +27,11 @@ public class Example extends AppCompatActivity {
                 break;
             case 5:
                 day="thurs";
+            case 6:
+                day="Fri";
+                break;
+            case 7:
+                day="Sat";
                 break;
                 default:
                     day="invalid day";
